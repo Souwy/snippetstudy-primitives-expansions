@@ -39,7 +39,7 @@ Number(String(12345).replace("12", ""));
   //s3  {number, 345}
 ```
 ## States deconstruction #2
-First 3 lines summarize everything. you have the number 12345 and you want to have a number 345. 
+First 2 lines summarize everything. you have the number 12345 and you want to have a number 345. 
    
  S0. you begin with the number 12345   
    
