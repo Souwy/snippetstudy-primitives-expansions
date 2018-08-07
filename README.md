@@ -40,9 +40,12 @@ Number(String(12345).replace("12", ""));
 ```
 ## States deconstruction #2
 First 3 lines summarize everything. you have the number 12345 and you want to have a number 345.  
- S0. you begin with the number 12345
- S1. you apply string to it so it becomes a string with a value "12345" (you "stringarize" it?)  
+ S0. you begin with the number 12345   
+   
+ S1. you apply string to it so it becomes a string with a value "12345" (you "stringarize" it?)   
+   
  S2. you apply the method .replace to the string 1234. the values are: you are taking "12" and want to replace with "" (nothing). Now you have "345".   
+   
  S3. you apply number to the string so it becomes a number (you "numberize" it?). now you have a number 345.
 
 ## Study 1Links
