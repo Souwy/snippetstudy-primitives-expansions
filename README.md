@@ -1,4 +1,4 @@
-# snippetstudy-primitives-expansions
+# Snippetstudy-primitives-expansions
 
 ## Description
 This is about using the function `.CharAt`and adding characters to it.
