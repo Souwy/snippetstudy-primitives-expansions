@@ -26,7 +26,8 @@ personal note: use ctrl+f and lookup "continued" to find where you haven't finis
    
 S0. you begin with the starting point: you have a string and the value is "a string".  
 S1. you apply a method to this string called ``.CharAt``, which takes the character at a precise index (position in the line). here the index is 2.   
-    the operation is "take the character at position 2 in the string". the response state will then be a string with the value "s"
+>The operation is "take the character at position 2 in the string". the response state will then be a string with the value "s"      
+   
 S2. you want to add the string "ee" to your previour string, to make the word "see".   
    
 ## Code snippet #2
@@ -48,7 +49,9 @@ First 2 lines summarize everything. you have the number 12345 and you want to ha
    
  S0. you begin with the number 12345   
  S1. you apply string to it so it becomes a string with a value "12345" (you "stringarize" it?)   
- S2. you apply the method .replace to the string 1234. the values are: you are taking "12" and want to replace with "" (nothing). Now you have "345".   
+ S2. you apply the method .replace to the string 1234. the values are: you are taking "12" and want to replace with "" (nothing). 
+ >Now you have "345".   
+    
  S3. you apply number to the string so it becomes a number (you "numberize" it?). now you have a number 345.
 
 ## Helpful links
