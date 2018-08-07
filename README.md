@@ -1,4 +1,4 @@
-# Snippetstudy-primitives-expansions
+# Snippetstudy: Primitives - String Method (eg: .CharAt)
 
 ## Description
 This is about using the function `.CharAt`and adding characters to it.
@@ -69,3 +69,5 @@ a method:
   value, type
   basic JS vocabulary!
   
+## Helpful links
+[String methods](https://www.w3schools.com/js/js_string_methods.asp)
