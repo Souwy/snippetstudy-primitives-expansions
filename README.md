@@ -58,7 +58,8 @@ First 2 lines summarize everything. you have the number 12345 and you want to ha
 
 an object:   
 a method:   
-.Char(x): takes a string and returns the char at index 'x'.   
+.CharAt(x): takes a string and returns the char at index 'x'.   
+.replace(x,y):
 
 ## Review
 * Struggles: 
