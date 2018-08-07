@@ -39,7 +39,8 @@ Number(String(12345).replace("12", ""));
   //s3  {number, 345}
 ```
 ## States deconstruction #2
-First 3 lines summarize everything. you have the number 12345 and you want to have a number 345.  
+First 3 lines summarize everything. you have the number 12345 and you want to have a number 345. 
+   
  S0. you begin with the number 12345   
    
  S1. you apply string to it so it becomes a string with a value "12345" (you "stringarize" it?)   
@@ -48,17 +49,17 @@ First 3 lines summarize everything. you have the number 12345 and you want to ha
    
  S3. you apply number to the string so it becomes a number (you "numberize" it?). now you have a number 345.
 
-## Study 1Links
-[repl.it]
-[pytut 
-[debugger]
+## Study links
+[repl.it]   
+[pytut]   
+[debugger]   
 sketches : insert img here l8ter _to be continued_
 
 ## Vocabulary
 
-an object:
-a method:
-.Charat(x): takes a string and returns the char at index 'x'.
+an object:   
+a method:   
+.Charat(x): takes a string and returns the char at index 'x'.   
 
 ## Review
 * Struggles: 
