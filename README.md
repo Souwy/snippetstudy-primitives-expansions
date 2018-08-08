@@ -1,4 +1,4 @@
-# Snippetstudy: Primitives - String Method (eg: .CharAt)
+# Snippetstudy_Primitives_String-Method_.CharAt
 
 ## Description
 This is about using the function `.CharAt`and adding characters to it.
