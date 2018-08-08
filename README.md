@@ -55,11 +55,16 @@ First 2 lines summarize everything. you have the number 12345 and you want to ha
  S3. you apply number to the string so it becomes a number (you "numberize" it?). now you have a number 345.
    
 ## Vocabulary
-
-- **an object**:   
-- **a method**:   
-- **.CharAt(x)**: takes a string and returns the char at index 'x'.   
-- **.replace(x,y)**:
+- **Object**:   
+  1. _Anything that is not a primitive_: "objects are stored by reference"
+  2. _The native data structure with curley braces and key-value pairs_: { key: value }
+  3. __Object__ with a capital "o".  THE object built into JS, it is the top parent in any inheritance chain.
+  4. "Object Oriented Programming".  A popular [programming paradigm](https://github.com/elewa-academy/programming-paradigms), source of much confusion to JS programmers:
+    * _Classical OOP_: The way most programming languages do OOP.  Objects inherit their methods from Classes, and cannot (typically) be modified dynamically.
+    * _Prototypical OOP_: The way JS does OOP. Objects are their own stand-alone entities, they inherit from other objects, and can be modified on the fly.   
+- **Method**: JavaScript methods are actions that can be performed on objects. A JavaScript method is a property containing a function definition. Methods are functions stored as object properties.   
+- **.CharAt(x)**: Method. Takes a string and returns the char at index 'x'.   
+- **.replace(x,y)**: Method. Searches a string for a specified value or a regular expression (x), and returns a new string where the specified values are replaced (y).
 
 ## Review
 * Struggles: 
