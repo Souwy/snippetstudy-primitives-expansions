@@ -53,16 +53,13 @@ First 2 lines summarize everything. you have the number 12345 and you want to ha
  >Now you have "345".   
     
  S3. you apply number to the string so it becomes a number (you "numberize" it?). now you have a number 345.
-
-## Helpful links
-
-
+   
 ## Vocabulary
 
-an object:   
-a method:   
-.CharAt(x): takes a string and returns the char at index 'x'.   
-.replace(x,y):
+- **an object**:   
+- **a method**:   
+- **.CharAt(x)**: takes a string and returns the char at index 'x'.   
+- **.replace(x,y)**:
 
 ## Review
 * Struggles: 
